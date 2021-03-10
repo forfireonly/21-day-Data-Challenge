@@ -2,7 +2,7 @@
 
 # 21-day-Data-Challenge
 
-###LEARN TO USE DATA WITH ONE CHALLENGE A DAY
+### LEARN TO USE DATA WITH ONE CHALLENGE A DAY
 
 Welcome to the 21-Day Data Challenge! After a stressful 2020, Dot has decided to leave their life in the city and move to a cabin off-the-grid. After living in the city for so long, they need to find out whether they’re capable of sustaining a rural lifestyle. They need your help to use data-driven decisions to build this new life. Each day, you need to help Dot complete a task that will bring them closer to rural bliss, and teach you a bit more about using data.
 
